@@ -166,7 +166,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://github.com/RAIYAN-KING/File.txt/tree/main).text
+    r1=requests.get("https://github.com/RAIYAN-KING/File.txt).text
 
     if key1 in r1:
 
