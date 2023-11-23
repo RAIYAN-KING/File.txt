@@ -166,8 +166,10 @@ def main_apv():
 
         
 
-    r1=requests.get("https://github.com/RAIYAN-KING/.text
-    if key1 in r1:
+    r1=requests.get("https://github.com/RAIYAN-KING/File.txt/blob/main/Aprove.txt).text
+    
+		    if key1 in r1:
+		
 
         R()
 
